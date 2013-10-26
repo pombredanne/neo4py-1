@@ -1,5 +1,5 @@
-								Neo4py
-							==============
+Neo4py
+=======
 
 Neo4py is a Python wrapper to the Neo4j REST interface built on requests and Cypher queries. 
 
